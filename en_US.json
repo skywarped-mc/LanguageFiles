@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "shortName": "en_US",
+    "name": "English (United States)",
+    "version": 1
+  },
+  "translations": {
+    "command.no-permission": "&cYou don't have permission to use this command.",
+    "command.player-not-found": "&cThat player does not exist, or is not online.",
+    "command.friend.form.main.title": "Friends",
+    "command.friend.form.main.content": "Please select an option:",
+    "command.friend.form.main.button.view": "View friends",
+    "command.friend.form.main.button.add": "Add a friend",
+    "command.friend.form.main.button.remove": "Remove a friend",
+    "command.friend.view.no-friends": "&cYou have no friends.",
+    "command.friend.view.form.title": "Friends",
+    "command.friend.view.form.content": "View online or offline friends.",
+    "command.friend.view.form.button.online": "Online [{friends.online}]",
+    "command.friend.view.form.button.offline": "Offline [{friends.offline}]",
+    "command.friend.view.form.friend.title": "",
+    "command.friend.view.form.friend.content": "Select an option:",
+    "command.friend.view.form.friend.button.view": "View Profile",
+    "command.friend.view.form.friend.button.message": "Send Private Message",
+    "command.friend.view.form.friend.button.join": "Join Server",
+    "command.friend.view.form.friend.button.remove": "Remove Friend",
+    "command.friend.view.form.list.title": "View Friends",
+    "command.friend.view.form.list.content": "Select a friend to view:",
+
+    "form.generic.button.close": "Close",
+    "form.generic.button.cancel": "Cancel",
+    "form.generic.button.back": "Back"
+  }
+}

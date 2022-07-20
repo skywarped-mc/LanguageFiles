@@ -54,6 +54,14 @@
     "command.group.remove-no-permission": "&cYou do not have permission to remove &e{%0}&c from this group.",
     "form.generic.button.close": "Close",
     "form.generic.button.cancel": "Cancel",
-    "form.generic.button.back": "Back"
+    "form.generic.button.back": "Back",
+    "groups.678934578903458790.name": "Default",
+    "groups.678934578903458790.description": "Default rank for SkyWarpedMC",
+    "groups.678934847203458790.name": "Owner",
+    "groups.678934847203458790.description": "Owner rank for SkyWarpedMC",
+    "groups.678934847208374690.name": "Player",
+    "groups.678934847208374690.description": "Player rank for SkyWarpedMC",
+    "groups.678934812345374690.name": "Test",
+    "groups.678934812345374690.description": "Test rank for SkyWarpedMC"
   }
 }

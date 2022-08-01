@@ -20,6 +20,8 @@
     "command.friend.form.main.button.remove": "Remove a friend",
     "command.friend.form.add.title": "Add a friend",
     "command.friend.form.add.add-input": "Enter the name of the player you wish to add:",
+    "command.friend.form.remove.title": "Remove a friend",
+    "command.friend.form.remove.friend-list": "Select the friend you wish to remove:",
     "command.friend.view.no-friends": "&cYou have no friends.",
     "command.friend.view.form.title": "Friends",
     "command.friend.view.form.content": "View online or offline friends.",
